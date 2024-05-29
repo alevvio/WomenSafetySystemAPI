@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WomenSafetySystemApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ec583aa6ead66f9a0c570977561835d8afcb58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802b420a02f833166e8caf332650ace42463b8b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WomenSafetySystemApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WomenSafetySystemApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
