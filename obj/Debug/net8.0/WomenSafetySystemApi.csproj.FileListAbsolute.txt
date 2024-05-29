@@ -148,3 +148,4 @@ C:\Users\amupa\OneDrive\Desktop\Codes\WebDev\FinalYearProject\backend\WomenSafet
 C:\Users\amupa\OneDrive\Desktop\Codes\WebDev\FinalYearProject\backend\WomenSafetySystemApi\bin\Debug\net8.0\System.Web.Http.Cors.dll
 C:\Users\amupa\OneDrive\Desktop\Codes\WebDev\FinalYearProject\backend\WomenSafetySystemApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\amupa\OneDrive\Desktop\Codes\WebDev\FinalYearProject\backend\WomenSafetySystemApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\amupa\OneDrive\Desktop\Codes\WebDev\FinalYearProject\backend\WomenSafetySystemApi\obj\Debug\net8.0\WomenSafetySystemApi.sourcelink.json
